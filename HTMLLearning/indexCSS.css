@@ -30,3 +30,8 @@ img {
     background-color: #2d62b8;
     height: 50px;
 }
+
+iframe{
+    width:100%;
+    height:400px;
+}
