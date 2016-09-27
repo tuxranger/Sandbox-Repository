@@ -31,7 +31,7 @@ img {
     height: 50px;
 }
 
-#champs{
+div.champs{
     float: left;
     border: 2px solid black;
     width: 125px;
