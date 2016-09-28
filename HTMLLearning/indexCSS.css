@@ -31,11 +31,13 @@ img {
     height: 50px;
 }
 
-div.champs{
+.champs{
     float: left;
     border: 2px solid black;
     width: 125px;
     height: 75px;
+    margin-left: 5px;
+    margin-bottom: 5px;
 }
 
 iframe{
