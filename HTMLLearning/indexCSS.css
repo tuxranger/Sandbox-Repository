@@ -20,6 +20,11 @@ h1 {
 img {
     width: 125px;
     height: 75px;
+    opacity: .65;
+}
+
+img:hover {
+    opacity: 1.0;
 }
 
 #toph{
@@ -31,7 +36,7 @@ img {
     height: 50px;
 }
 
-.champs{
+div.champs{
     float: left;
     border: 2px solid black;
     width: 125px;
@@ -40,6 +45,9 @@ img {
     margin-bottom: 5px;
 }
 
+div.champs:hover{
+    border: 2px solid red;
+}
 iframe{
     width:100%;
     height:400px;
